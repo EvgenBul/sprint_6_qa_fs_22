@@ -1,0 +1,4 @@
+allure_results/
+docs/allure-reports/
+!docs/generate_report.sh
+!allure-report/
